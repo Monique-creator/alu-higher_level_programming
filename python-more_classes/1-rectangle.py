@@ -1,9 +1,13 @@
 #!/usr/bin/python3
-"""This module defines a class Rectangle that defines a rectangle by its width and height."""
+"""This module defines a class Rectangle that defines a rectangle
+by its width and height.
+"""
 
 
 class Rectangle:
-    """This class represents a rectangle with private width and height attributes."""
+    """This class represents a rectangle with private width
+    and height attributes.
+    """
 
     def __init__(self, width=0, height=0):
         """Initialize a new Rectangle instance.
